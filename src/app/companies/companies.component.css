@@ -1,0 +1,28 @@
+#recruiters
+{
+padding-left: 100px;
+padding-bottom:100px ;
+}
+#recruiters h3
+{
+text-align:center ;
+padding-bottom: 40px;
+margin-top: 50px;
+}
+h3::before
+{
+content:'';
+background-image: linear-gradient(to right, #6db9ef, #7ce08a);
+width: 50px;
+height:30px;
+position:absolute;
+z-index:-10px ;
+margin-top:-23px;
+border-top-left-radius: 70px;
+border-bottom-right-radius: 90px;
+}
+#recruiters img
+{
+max-width: 100px;
+margin: 0px 20px;
+}

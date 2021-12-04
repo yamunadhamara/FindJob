@@ -1,0 +1,14 @@
+.form-group
+{
+    margin-left:500px ;
+}
+.form-control
+{
+    width: 300px;
+}
+.btn
+{
+    background: linear-gradient(to right, #6db9ef, #7ce08a);
+    margin-bottom: 50px;
+    margin-left: 500px;
+}

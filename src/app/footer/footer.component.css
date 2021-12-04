@@ -1,0 +1,59 @@
+
+h3::before
+{
+content:'';
+background-image: linear-gradient(to right, #6db9ef, #7ce08a);
+width: 50px;
+height:30px;
+position:absolute;
+z-index:-10px ;
+margin-top:-23px;
+border-top-left-radius: 70px;
+border-bottom-right-radius: 90px;
+}
+#site-stats
+{
+    padding: 0 100px;
+}
+#site-stats h3
+{
+    margin-top: 10px;
+    margin-bottom:30px;
+    margin-left: 80px;
+}
+.stats-box
+{
+    padding:30px;
+    border-radius:10px;
+    margin:20px 20px;
+    box-shadow:0 2px 40px 0 rgba(110,130,208, .18);
+}
+.stats-box .fa
+{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom:10px ;
+}
+#app-banner
+{
+    background-image: linear-gradient(to right,#6db9ef,#7ce08a);
+    padding:5px 0;
+}
+#app-banner h1
+{
+    margin-top:20px;
+    color:#fff;
+}
+#app-banner img
+{
+    margin:50px 10px;
+}    
+#app-banner p
+{
+    color: #fff;
+    
+}
+#app-banner a img
+{
+    margin-top: 5px;
+}
